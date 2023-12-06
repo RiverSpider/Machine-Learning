@@ -28,3 +28,6 @@
 [1125/193737.502:ERROR:check.cc(297)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
 [1126/132257.189:ERROR:check.cc(297)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
 [1127/175028.588:ERROR:check.cc(297)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[1130/180203.608:ERROR:check.cc(297)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[1205/174543.246:ERROR:check.cc(297)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[1206/211623.555:ERROR:check.cc(297)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
